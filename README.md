@@ -42,12 +42,7 @@
 ###
 <br clear="both">
 
-<div align="center">
-  <img height="110" src="/tumblr_4b1240f484cacac1f4609eb2cd485ce6_03c87de4_640.webp"  />
 
-
-
-</div>
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=santloz.santloz&left_color=brown&left_text=Profile%20views"  />
@@ -60,11 +55,17 @@
 ###
 ###
 
-<div align="right">
+<img align="right" height="230" src="/tumblr_4b1240f484cacac1f4609eb2cd485ce6_03c87de4_640.webp"  />
+
+###
+
+<div align="left">
   <a href="https://open.spotify.com/user/31d6jtu2zwhldd3bpx5hpnrpzsd4">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31d6jtu2zwhldd3bpx5hpnrpzsd4&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
+###
 
 ###
 
