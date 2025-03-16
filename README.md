@@ -1,33 +1,26 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="/giphy.gif" width="200"/>
+
+
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi 👋, I'm Santiago</h1></summary>
+    <summary><h1 style="display: inline-block">hey welcome, I'm Santiago</h1></summary>
   </ul>
 </div>
 
 ###
+![Banner de santloz](banner-city-landscape-of-silhouettes-vector.jpg)
 
 <br clear="both">
 
-<div align="center">
-  <img height="300" src="https://img.freepik.com/vector-gratis/banner-terraza-azotea-vista-ciudad-noche_107791-6193.jpg?t=st=1742125080~exp=1742128680~hmac=6ff88d0264f2905b26f4fbefd7cdd0326c37926c29acf037715715a76b7dfe29&w=1480"  />
-</div>
-
 ###
 <!--- snake -->
-<div align="center">
-  🐍
-</div>
-
 
 <!--Intro start-->
 - 🔭 I’m currently working on **AWS, React, Nodejs, MongoDB, Java, Python, Springboot, MySQL, Django, PostgreSQL **
-
-- 🌱 I’m currently learning **to put together multiple Hyper Beast Stack for Scalable Applications.**
 
 - ☁️ I've keen interest in cloud computing. So,I'm learning **AWS**
 
