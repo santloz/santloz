@@ -50,7 +50,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="110" src="https://media1.tenor.com/m/xSWiHHue6HcAAAAC/gachiakuta-manga.gif](https://c.tenor.com/xSWiHHue6HcAAAAC/tenor.gif](https://c.tenor.com/xSWiHHue6HcAAAAC/tenor.gif"  />
+  <img height="110" src="https://c.tenor.com/xSWiHHue6HcAAAAC/tenor.gif"  />
 </div>
 
 <div align="right">
