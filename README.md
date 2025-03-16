@@ -8,6 +8,15 @@
 ###
 ![Banner de santloz](banner-city-landscape-of-silhouettes-vector.jpg)
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santloz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="160" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=santloz&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="160" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santloz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true" height="140" alt="languages graph"  />
+</div>
+
+###
+<br clear="both">
+
 <br clear="both">
 
 ###
@@ -26,17 +35,6 @@
 <!--Intro end-->
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=santloz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="160" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=santloz&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="160" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santloz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true" height="140" alt="languages graph"  />
-</div>
-
-###
-<br clear="both">
-
-
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=santloz.santloz&left_color=brown&left_text=Profile%20views"  />
