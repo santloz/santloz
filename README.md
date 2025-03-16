@@ -54,7 +54,7 @@
 
 ###
 
-<img align="left" height="240" src="https://media1.tenor.com/m/xSWiHHue6HcAAAAC/gachiakuta-manga.gif"  />
+<img align="left" height="210" src="https://media1.tenor.com/m/xSWiHHue6HcAAAAC/gachiakuta-manga.gif"  />
 
 ###
 
