@@ -50,7 +50,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="110" src="https://c.tenor.com/xSWiHHue6HcAAAAC/tenor.gif"  />
+  <img height="110" src="https://c.tenor.com/xSWiHHue6HcAAAAC/tenor.gif](https://tenor.com/view/gachiakuta-guita-gachiakuta-gachiakuta-guita-guita-hebby-fantasia-kei-urana-gif-9525769519456294365"  />
 </div>
 
 <div align="right">
