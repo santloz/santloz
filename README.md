@@ -47,6 +47,11 @@
 </div>
 
 ###
+<br clear="both">
+
+<div align="center">
+  <img height="310" src="https://media1.tenor.com/m/xSWiHHue6HcAAAAC/gachiakuta-manga.gif"  />
+</div>
 
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=santloz.santloz&left_color=brown&left_text=Profile%20views"  />
@@ -54,8 +59,9 @@
 
 ###
 
-<img align="left" height="180" src="https://media1.tenor.com/m/xSWiHHue6HcAAAAC/gachiakuta-manga.gif"  />
 
+
+###
 ###
 
 <div align="right">
