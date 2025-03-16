@@ -9,7 +9,15 @@
   </ul>
 </div>
 
+###
 
+<br clear="both">
+
+<div align="center">
+  <img height="300" src="https://img.freepik.com/vector-gratis/banner-terraza-azotea-vista-ciudad-noche_107791-6193.jpg?t=st=1742125080~exp=1742128680~hmac=6ff88d0264f2905b26f4fbefd7cdd0326c37926c29acf037715715a76b7dfe29&w=1480"  />
+</div>
+
+###
 <!--- snake -->
 <div align="center">
   🐍
@@ -30,40 +38,39 @@
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [kaotxs](https://discordapp.com/users/571865998722859035) my username!
 <!--Intro end-->
 
+<br clear="both">
 
-
-<!--- stats & Trophy (start) -->
-<p align="center">
-  <!--- stats (start) -->
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=santloz&theme=dark&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=santloz&theme=dark&hide_border=false" />
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=santloz&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-<!--- stats (end) -->
-
-<!--- trophy (start) -->
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=santloz&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=santloz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="220" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=santloz&locale=en&mode=weekly&theme=tokyonight&hide_border=true&border_radius=5" height="220" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=santloz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=tokyonight&hide_border=true" height="187" alt="languages graph"  />
 </div>
-<!--- trophy (start) -->
 
+###
 
-</p>
-<!--- stats (end) -->
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=santloz.santloz&left_color=brown&left_text=Profile%20views"  />
+</div>
+
+###
+
+<img align="left" height="240" src="https://media1.tenor.com/m/xSWiHHue6HcAAAAC/gachiakuta-manga.gif"  />
+
+###
+
+<div align="right">
+  <a href="https://open.spotify.com/user/31d6jtu2zwhldd3bpx5hpnrpzsd4">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31d6jtu2zwhldd3bpx5hpnrpzsd4&count=5&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/santloz/santloz/output/snake.svg" alt="Snake animation" />
+
+###
 
 
 <!--h1 without bottom border-->
@@ -80,17 +87,7 @@
 </p>
 
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-
-
-
-<!--profile visit count-->
-<div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
-  
-</div>
+<
 
 
 <!--horizontal divider(gradiant)-->
