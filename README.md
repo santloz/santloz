@@ -1,15 +1,9 @@
 
 <!--horizontal divider(gradiant)-->
-<img src="/giphy.gif" width="200"/>
 
 
 
-<!--h1 without bottom border-->
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">hey welcome, I'm Santiago</h1></summary>
-  </ul>
-</div>
+# <img src="/giphy.gif" width="200"/> hey welcome, I'm Santiago
 
 ###
 ![Banner de santloz](banner-city-landscape-of-silhouettes-vector.jpg)
