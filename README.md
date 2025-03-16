@@ -3,7 +3,7 @@
 
 
 
-# <img src="/giphy.gif" width="200"/> hey welcome, I'm Santiago
+# <img src="/giphy.gif" width="200"/>hey welcome, I'm Santiago
 
 ###
 ![Banner de santloz](banner-city-landscape-of-silhouettes-vector.jpg)
